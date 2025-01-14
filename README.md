@@ -12,7 +12,6 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=althafhsn&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=althafhsn&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
