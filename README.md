@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Althaf+Husain;A+Passionate+Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Althaf+Husain;A+Passionate;Full+Stack+Developer;Always+Learning;New+Things" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -13,9 +13,6 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=althafhsn&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=althafhsn&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
-<div align="center">
 </div>
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
@@ -38,10 +35,10 @@
 <h2 align="center">🎓 About Me</h2>
 
 <div align="center">
-  <p>🎯 I'm currently working on <strong>Web Development & System Engineering</strong></p>
-  <p>📚 I'm currently learning <strong>Advanced System Architecture</strong></p>
-  <p>👯 I'm looking to collaborate on <strong>Open Source Projects</strong></p>
-  <p>💬 Ask me about <strong>Python, Web Development, Linux</strong></p>
+  <p>🎯 I'm currently working on <strong>Angular and .NET Core projects</strong></p>
+  <p>📚 I'm currently learning <strong>Advanced Backend Development & Database Management</strong></p>
+  <p>👯 I'm looking to collaborate on <strong>Open Source and Full-Stack Projects</strong></p>
+  <p>💬 Ask me about <strong>Angular, .NET Core, React, and Database Design</strong></p>
 </div>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -53,7 +50,7 @@
 <h2 align="center">📫 Connect with Me</h2>
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:althafhsn@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/althafhsn/">
