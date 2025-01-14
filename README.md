@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+[Your+Name];A+Passionate+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Althaf+Husain;A+Passionate+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -11,12 +11,12 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=althafhsn&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=althafhsn&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=althafhsn&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
