@@ -12,10 +12,10 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=althafhsn&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=althafhsn&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=althafhsn&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
